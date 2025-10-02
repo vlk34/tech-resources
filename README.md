@@ -26,126 +26,110 @@ Finally, select ONE ‘best fit’ project for me. For that project, give me a s
 
 # 📚 Developer Learning Resources
 
-A curated collection of free resources to help you learn and master various development topics. Organized by category for easy navigation.
+A curated collection of free resources to help you learn and master various development topics. **Only links you provided are used.** Video titles were taken from the actual video pages when available.
 
 ---
 
-## 🧰 1. Git & GitHub
+## 🌐 Frontend Development
 
-* [Git & GitHub Crash Course For Beginners](https://youtu.be/RGOj5yH7evk) – Learn Git basics and version control workflow.
-* [Git & GitHub for Beginners – Crash Course](https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS) – Beginner-friendly Git & GitHub walkthrough.
-* [Hello World – GitHub Docs](https://docs.github.com/get-started/quickstart/hello-world) – Official GitHub quickstart guide.
-
----
-
-## 🌐 2. Frontend Development
-
-* [Frontend Developer Roadmap – roadmap.sh](https://roadmap.sh/frontend) – Visual roadmap of frontend technologies and concepts.
-* [React Tutorial for Beginners](https://youtu.be/SqcY0GlETPk?si=xW29ZfYwH-c5TG5H) – Hands-on React basics.
-* [Every React Concept Explained in 12 Minutes](https://youtu.be/wIyHSOugGGw?si=UWN7PDdM72X2SvIB) – Quick conceptual overview.
-* [Build and Deploy 4 Modern React Apps](https://youtu.be/F627pKNUCVQ?si=hHrvNygxzZa5Ci_i) – End-to-end React project builds.
-* [Learn Tailwind CSS – Full Course for Beginners](https://youtu.be/00lxm_doFYw?si=ldJmtkQ5AWcY3o-9) – CSS utility framework tutorial.
-* [Advanced React Patterns](https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys) – Explore hooks and architecture patterns.
-* [JavaScript Crash Course For Beginners](https://youtu.be/2NPIYnY3ilo?si=P1sxT0xoD3ZN_JLI) – Core JS concepts.
-* [Learn TypeScript – Full Course](https://youtu.be/LOH1l-MP_9k?si=j9y-E8-dfKktl_qI) – Strong typing in JS apps.
-* [Next.js Full Course for Beginners](https://youtu.be/4AXQgOcL1mo?si=joDBuzigT6frt7J-) – Framework for production React apps.
+* Frontend roadmap — [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
+* React Tutorial for Beginners — [https://youtu.be/SqcY0GlETPk?si=xW29ZfYwH-c5TG5H](https://youtu.be/SqcY0GlETPk?si=xW29ZfYwH-c5TG5H)
+* Build and Deploy 4 Modern React Apps and Get Hired — [https://youtu.be/F627pKNUCVQ?si=hHrvNygxzZa5Ci_i](https://youtu.be/F627pKNUCVQ?si=hHrvNygxzZa5Ci_i)
+* Every React 19 Feature Explained in 8 Minutes — [https://youtu.be/2NPIYnY3ilo?si=P1sxT0xoD3ZN_JLI](https://youtu.be/2NPIYnY3ilo?si=P1sxT0xoD3ZN_JLI)
+* ALL React Hooks Explained in 12 Minutes — [https://youtu.be/LOH1l-MP_9k?si=j9y-E8-dfKktl_qI](https://youtu.be/LOH1l-MP_9k?si=j9y-E8-dfKktl_qI)
+* 7 React Lessons I Wish I Knew Earlier — [https://youtu.be/4AXQgOcL1mo?si=joDBuzigT6frt7J-](https://youtu.be/4AXQgOcL1mo?si=joDBuzigT6frt7J-)
+* Fetching Data in React — [https://youtu.be/00lxm_doFYw?si=ldJmtkQ5AWcY3o-9](https://youtu.be/00lxm_doFYw?si=ldJmtkQ5AWcY3o-9)
+* Tailwind CSS v4 Full Course 2025 — [https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys](https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys)
 
 ---
 
-## ⚙️ 3. Backend Development
+## ⚙️ Backend Development
 
-* [Backend Developer Roadmap – roadmap.sh](https://roadmap.sh/backend) – Backend technologies overview.
-* [Node.js & Express.js Full Course](https://youtu.be/Oe421EPjeBE?si=UgvVUMh_EAq1V1tT) – Learn backend with Node.js.
-* [REST API Tutorial – Crash Course](https://youtu.be/-MTSQjw5DrM) – Building APIs with Express.
-* [JavaScript for Backend Development](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P) – Core JS for servers.
-* [Learn MongoDB – Full Tutorial](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF) – NoSQL database fundamentals.
-* [Crash Course on Databases](https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK) – SQL & relational DB concepts.
-
----
-
-## 🧮 4. SQL / Databases
-
-* [SQL Tutorial – Full Database Course](https://youtu.be/HXV3zeQKqGY?si=oJtxXOr14TkJBIx-) – SQL basics to advanced queries.
-* [SQLBolt](https://sqlbolt.com) – Interactive SQL lessons.
-* [Intro to SQL – Kaggle](https://www.kaggle.com/learn/intro-to-sql) – Practice SQL with real datasets.
-* [VisuAlgo – Visualize Algorithms & Data Structures](https://visualgo.net/en) – Interactive visualization.
-* [Algorithm Visualizer (USF)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) – Visual explanations of DS/algorithms.
-* [CSV is Tool](https://csvistool.com/) – Work with CSV data efficiently.
+* Node.js and Express.js - Full Course — [https://www.youtube.com/watch?v=Oe421EPjeBE](https://www.youtube.com/watch?v=Oe421EPjeBE)
+* Node.js Tutorial for Beginners: Learn Node in 1 Hour — [https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK](https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK)
+* Backend web development — a complete overview — [https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P)
+* REST API Crash Course - Introduction + Full Python API Tutorial — [https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR)
+* Databases In-Depth – Complete Course — [https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
+* (link with no retrievable title via automated fetch) — [https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF)
 
 ---
 
-## 🤖 5. AI / Machine Learning
+## 🧮 SQL / Databases
 
-* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) – Official ML learning path.
-* [Machine Learning Tutorial for Beginners](https://youtu.be/i_LwzRVP7bg?si=Bg7S0Zl0tl_3IEha) – ML basics with Python.
-* [Neural Networks – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as) – Visual NN explanations.
-* [AI Basics Explained](https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij) – Beginner-friendly AI intro.
-* [Scikit-Learn Crash Course](https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o) – Hands-on ML with Python.
-* [Deep Learning Explained](https://youtu.be/qNxrPri1V0I?si=XFta8HhkUeDM8h1S) – Foundations of deep learning.
-* [Introduction to Data Science & ML](https://youtu.be/E0Hmnixke2g?si=FE6jTgkP1oPYUdAF) – End-to-end data science concepts.
-
----
-
-## 🐍 6. Python
-
-* [Python Full Course for Beginners](https://youtu.be/yye7rSsiV6k?si=9UISsAJ6VUAh2yiE) – Step-by-step Python tutorial.
-* [Python Programming – FreeCodeCamp](https://youtu.be/XKHEtdqhLK8) – Core Python topics.
-* [Python for Interviews](https://youtu.be/m8Icp_Cid5o?si=iAWjF2-VffOVddWa) – Coding interview prep.
+* SQL interview questions and answers | Entry level data analyst interview — [https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS](https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS)
+* Top 45 SQL Interview Questions And Answers In 2025 — [https://youtu.be/yPasq39n8fY?si=bs3WFnZ5hZfraybu](https://youtu.be/yPasq39n8fY?si=bs3WFnZ5hZfraybu)
+* Databases In-Depth – Complete Course — [https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
+* SQL Tutorial - Full Database Course for Beginners — [https://youtu.be/HXV3zeQKqGY?si=oJtxXOr14TkJBIx-](https://youtu.be/HXV3zeQKqGY?si=oJtxXOr14TkJBIx-)
+* SQLBolt — [https://sqlbolt.com](https://sqlbolt.com)
+* Kaggle: Intro to SQL — [https://www.kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql)
 
 ---
 
-## 📊 7. Data Science / Data Analysis
+## 🤖 AI / Machine Learning
 
-* [Python for Data Science – Full Course](https://youtu.be/CMEWVn1uZpQ?si=eqRnzfaGqtPYTNU4) – Use Python in DS.
-* [Essence of Linear Algebra – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as) – Math foundations.
-* [Statistics – Full University Lecture](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=u-0u2OMuwqkZWmRW) – Statistics for DS.
-
----
-
-## ☁️ 8. Cloud & DevOps
-
-* [Google Cloud Skills Boost – Cloud Engineer Path](https://www.cloudskillsboost.google/paths/11) – Hands-on labs & quests.
-* [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) – AWS learning path.
-* [DevOps Tutorial for Beginners](https://youtu.be/j5Zsa_eOXeY?si=aSnaYu9epUGxDla6) – CI/CD, Docker, and automation.
+* Google Machine Learning Crash Course — [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
+* AI Basics for Beginners — [https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij](https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij)
+* Machine Learning with Python & Scikit-Learn – Full Course — [https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o](https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o)
+* Learn Machine Learning Like a GENIUS and Not Waste Time — [https://youtu.be/qNxrPri1V0I?si=XFta8HhkUeDM8h1S](https://youtu.be/qNxrPri1V0I?si=XFta8HhkUeDM8h1S)
+* All Machine Learning algorithms explained in 17 min — [https://youtu.be/E0Hmnixke2g?si=FE6jTgkP1oPYUdAF](https://youtu.be/E0Hmnixke2g?si=FE6jTgkP1oPYUdAF)
 
 ---
 
-## 🔧 9. System Design
+## 🐍 Python
 
-* [System Design Primer – GitHub](https://github.com/donnemartin/system-design-primer) – Best open-source guide.
-* [System Design Basics – Full Course](https://youtu.be/s9Qh9fWeOAk?si=sDlxyvMKOkBJWK3b) – Beginner-friendly.
-* [System Design Concepts Simplified](https://youtu.be/yK1uBHPdp30?si=5Tov1x_jByPe0c1V) – Key system design lessons.
-* [System Design for Beginners – FreeCodeCamp](https://youtu.be/9GDX-IyZ_C8?si=7ezyCJfcu7O-M5Cr) – Intro course.
-
----
-
-## 📱 10. Mobile Development (React Native)
-
-* [React Native Tutorial – Crash Course](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR) – Build an RN app step by step.
-* [React Native Crash Course | Build a Mobile App in 3 Hours](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l) – Full walkthrough.
-* [React Native with Expo – Official Docs](https://docs.expo.dev/tutorial/introduction/) – Build, test, and deploy.
+* Python Full Course for Beginners [2025] — [https://youtu.be/K5KVEU3aaeQ?si=vWoZ8ZpUmfvilcdv](https://youtu.be/K5KVEU3aaeQ?si=vWoZ8ZpUmfvilcdv)
+* Python for Coding Interviews - Everything you need to Know — [https://youtu.be/0K_eZGS5NsU?si=mljEURSKhggrTzH5](https://youtu.be/0K_eZGS5NsU?si=mljEURSKhggrTzH5)
+* 10 Important Python Concepts In 20 Minutes — [https://youtu.be/Gx5qb1uHss4?si=1nPysrOz_UfxkWmD](https://youtu.be/Gx5qb1uHss4?si=1nPysrOz_UfxkWmD)
 
 ---
 
-## 🔗 11. APIs
+## 📊 Data Science / Data Analysis
 
-* [APIs for Beginners – Full Course](https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO) – API fundamentals.
-* [Postman Academy – Self-Study](https://academy.postman.com/page/self-study-learning) – Learn API testing & design.
-* [REST API Crash Course](https://youtu.be/K9teElePNkk?si=jjgz1NhTGWH9hnsw) – API development & integration.
-
----
-
-## 🏆 12. DSA / LeetCode
-
-* [DSA Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=vWoZ8ZpUmfvilcdv) – Covers arrays, linked lists, recursion.
-* [Visualizing Data Structures – VisuAlgo](https://visualgo.net/en) – Interactive animations.
-* [DSA Course – Full Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=u-0u2OMuwqkZWmRW) – In-depth data structures.
+* Learn Python for Data Science – Full Course for Beginners — [https://youtu.be/CMEWVn1uZpQ?si=eqRnzfaGqtPYTNU4](https://youtu.be/CMEWVn1uZpQ?si=eqRnzfaGqtPYTNU4)
+* Essence of Linear Algebra (playlist) — [https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as)
+* Statistics - A Full Lecture to learn Data Science (2025 Version) — [https://youtu.be/K9teElePNkk?si=jjgz1NhTGWH9hnsw](https://youtu.be/K9teElePNkk?si=jjgz1NhTGWH9hnsw)
 
 ---
 
-## 🔑 13. Rocket.new (No-Code Projects)
+## ☁️ Cloud & DevOps
 
-* [Rocket.new – Build Projects From Prompts](https://rocket.new/) – Generate portfolio-ready MVPs from prompts.
+* Cloud Engineer | Google Cloud Skills Boost (path) — [https://www.cloudskillsboost.google/paths/11](https://www.cloudskillsboost.google/paths/11)
+* AWS Cloud Practitioner Essentials — [https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
+* (DevOps intro / course link — title not retrievable via automated fetch) — [https://youtu.be/j5Zsa_eOXeY?si=aSnaYu9epUGxDla6](https://youtu.be/j5Zsa_eOXeY?si=aSnaYu9epUGxDla6)
+
+---
+
+## 🔧 System Design
+
+* System Design was HARD until I Learned these 30 Concepts — [https://youtu.be/s9Qh9fWeOAk?si=sDlxyvMKOkBJWK3b](https://youtu.be/s9Qh9fWeOAk?si=sDlxyvMKOkBJWK3b)
+* System Design for Beginners Course — [https://www.youtube.com/watch?v=m8Icp_Cid5o?si=iAWjF2-VffOVddWa](https://www.youtube.com/watch?v=m8Icp_Cid5o?si=iAWjF2-VffOVddWa)
+* System Design Primer (GitHub) — [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+---
+
+## 📱 Mobile Development (React Native)
+
+* React Native Crash Course+ | Build a Mobile App In 3 Hours — [https://youtu.be/bCpFbERgj7s?si=BSx7U9wann8Q64AT](https://youtu.be/bCpFbERgj7s?si=BSx7U9wann8Q64AT)
+* React Native Tutorial — [https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR)  *(also an API/backend tutorial; listed because it’s in your set)*
+* Expo tutorial (official) — [https://docs.expo.dev/tutorial/introduction/](https://docs.expo.dev/tutorial/introduction/)
+
+---
+
+## 🔗 APIs
+
+* APIs for Beginners - How to use an API (Full Course / Tutorial) — [https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO](https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO)
+* Postman Academy — [https://academy.postman.com/page/self-study-learning](https://academy.postman.com/page/self-study-learning)
+
+---
+
+## 🏆 DSA / Tools / Visualizers
+
+* VisuAlgo — [https://visualgo.net/en](https://visualgo.net/en)
+* CSVis Tool — [https://csvistool.com/](https://csvistool.com/)
+* CS USFCA Data Structure Visualizations — [https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* Operating Systems Course for Beginners — [https://youtu.be/yK1uBHPdp30?si=5Tov1x_jByPe0c1V](https://youtu.be/yK1uBHPdp30?si=5Tov1x_jByPe0c1V)
+
+---
 
 ---
 
