@@ -1,6 +1,6 @@
 ## Rocket.new Project Generator Prompt
 
-Here’s my CV (pasted below). I want you to carefully analyze my skills, work experience, education, and any technologies or tools I’ve listed. Based on this, generate 3 unique and practical project ideas that would strengthen my CV. Each project should:
+Here’s my Resume (pasted below). I want you to carefully analyze my skills, work experience, education, and any technologies or tools I’ve listed. Based on this, generate 3 unique and practical project ideas that would strengthen my Resume. Each project should:
 
 Showcase my existing skills while also introducing 1–2 new but related skills that employers value.
 
