@@ -32,112 +32,120 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🧰 1. Git & GitHub
 
-- [Git, GitHub, & GitHub Desktop for Beginners](https://www.youtube.com/watch?v=HJAwAKwFX-A) – A beginner-friendly walkthrough of version control.
-- [How to Use GitHub for Beginners](https://phoenixnap.com/kb/how-to-use-github) – Simple explanations of Git concepts.
-- [GitHub Docs: Hello World](https://docs.github.com/get-started/quickstart/hello-world) – Official guide to creating your first repository.
+* [Git & GitHub Crash Course For Beginners](https://youtu.be/RGOj5yH7evk) – Learn Git basics and version control workflow.
+* [Git & GitHub for Beginners – Crash Course](https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS) – Beginner-friendly Git & GitHub walkthrough.
+* [Hello World – GitHub Docs](https://docs.github.com/get-started/quickstart/hello-world) – Official GitHub quickstart guide.
 
 ---
 
 ## 🌐 2. Frontend Development
 
-- [Frontend Roadmap – roadmap.sh](https://roadmap.sh/frontend) – Visual roadmap of frontend technologies and concepts.
-- [React Tutorial for Beginners – Programming with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk) – Build your first React app.
-- [Every React Concept Explained in 12 Minutes – Code Bootcamp](https://www.youtube.com/watch?v=wIyHSOugGGw) – Quick conceptual overview.
-- [Build and Deploy 4 Modern React Apps – JS Mastery](https://www.classcentral.com/course/youtube-build-and-deploy-4-modern-react-apps-and-get-hired-as-a-frontend-developer-full-10-hour-course-121233) – Hands-on full course.
-- [Fetching Data in React – Cosden Solutions](https://www.youtube.com/watch?v=MBlZ8Wzkbi4) – Learn API integration in React apps.
+* [Frontend Developer Roadmap – roadmap.sh](https://roadmap.sh/frontend) – Visual roadmap of frontend technologies and concepts.
+* [React Tutorial for Beginners](https://youtu.be/SqcY0GlETPk?si=xW29ZfYwH-c5TG5H) – Hands-on React basics.
+* [Every React Concept Explained in 12 Minutes](https://youtu.be/wIyHSOugGGw?si=UWN7PDdM72X2SvIB) – Quick conceptual overview.
+* [Build and Deploy 4 Modern React Apps](https://youtu.be/F627pKNUCVQ?si=hHrvNygxzZa5Ci_i) – End-to-end React project builds.
+* [Learn Tailwind CSS – Full Course for Beginners](https://youtu.be/00lxm_doFYw?si=ldJmtkQ5AWcY3o-9) – CSS utility framework tutorial.
+* [Advanced React Patterns](https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys) – Explore hooks and architecture patterns.
+* [JavaScript Crash Course For Beginners](https://youtu.be/2NPIYnY3ilo?si=P1sxT0xoD3ZN_JLI) – Core JS concepts.
+* [Learn TypeScript – Full Course](https://youtu.be/LOH1l-MP_9k?si=j9y-E8-dfKktl_qI) – Strong typing in JS apps.
+* [Next.js Full Course for Beginners](https://youtu.be/4AXQgOcL1mo?si=joDBuzigT6frt7J-) – Framework for production React apps.
 
 ---
 
 ## ⚙️ 3. Backend Development
 
-- [Backend Roadmap – roadmap.sh](https://roadmap.sh/backend) – Step-by-step roadmap of backend skills.
-- [Backend Web Development – SupersimpleDev](https://www.youtube.com/watch?v=7t1Yt3j8n2Y) – Overview of backend architecture and workflows.
-- [Node.js & Express Full Course – FreeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeBE) – Practical server-side development.
-- [Databases In-Depth – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – SQL & NoSQL fundamentals.
-- [REST API Crash Course – Caleb Curry](https://www.youtube.com/watch?v=Q-BpqyOT3a8) – Learn REST APIs and backend-frontend communication.
+* [Backend Developer Roadmap – roadmap.sh](https://roadmap.sh/backend) – Backend technologies overview.
+* [Node.js & Express.js Full Course](https://youtu.be/Oe421EPjeBE?si=UgvVUMh_EAq1V1tT) – Learn backend with Node.js.
+* [REST API Tutorial – Crash Course](https://youtu.be/-MTSQjw5DrM) – Building APIs with Express.
+* [JavaScript for Backend Development](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P) – Core JS for servers.
+* [Learn MongoDB – Full Tutorial](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF) – NoSQL database fundamentals.
+* [Crash Course on Databases](https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK) – SQL & relational DB concepts.
 
 ---
 
 ## 🧮 4. SQL / Databases
 
-- [SQL Interview Questions & Answers – Aaron Oliver](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Entry-level data analyst prep.
-- [Top 20 SQL Interview Questions Playlist – GeeksforGeeks](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Common SQL questions for interviews.
-- [Top 45 SQL Interview Questions 2025 – Simplilearn](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Updated list of SQL questions.
-- [SQLBolt](https://sqlbolt.com/) – Interactive SQL exercises for practice.
-- [Kaggle: Learn Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) – Hands-on SQL practice with datasets.
+* [SQL Tutorial – Full Database Course](https://youtu.be/HXV3zeQKqGY?si=oJtxXOr14TkJBIx-) – SQL basics to advanced queries.
+* [SQLBolt](https://sqlbolt.com) – Interactive SQL lessons.
+* [Intro to SQL – Kaggle](https://www.kaggle.com/learn/intro-to-sql) – Practice SQL with real datasets.
+* [VisuAlgo – Visualize Algorithms & Data Structures](https://visualgo.net/en) – Interactive visualization.
+* [Algorithm Visualizer (USF)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) – Visual explanations of DS/algorithms.
+* [CSV is Tool](https://csvistool.com/) – Work with CSV data efficiently.
 
 ---
 
 ## 🤖 5. AI / Machine Learning
 
-- [Machine Learning for Everybody – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Beginner-friendly ML concepts.
-- [Neural Networks Playlist – 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk) – Visual explanation of neural networks.
-- [AI Basics for Beginners – CodeBasics](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Intro to AI concepts.
-- [Machine Learning with Python & Scikit-Learn – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Practical ML examples.
-- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) – Official free course with exercises.
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) – Official ML learning path.
+* [Machine Learning Tutorial for Beginners](https://youtu.be/i_LwzRVP7bg?si=Bg7S0Zl0tl_3IEha) – ML basics with Python.
+* [Neural Networks – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as) – Visual NN explanations.
+* [AI Basics Explained](https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij) – Beginner-friendly AI intro.
+* [Scikit-Learn Crash Course](https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o) – Hands-on ML with Python.
+* [Deep Learning Explained](https://youtu.be/qNxrPri1V0I?si=XFta8HhkUeDM8h1S) – Foundations of deep learning.
+* [Introduction to Data Science & ML](https://youtu.be/E0Hmnixke2g?si=FE6jTgkP1oPYUdAF) – End-to-end data science concepts.
 
 ---
 
 ## 🐍 6. Python
 
-- [Python for Beginners 2025 – Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Beginner-friendly Python course.
-- [Python for Coding Interviews – Neetcode](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Python interview prep.
-- [10 Important Python Topics – Indently](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Key Python concepts overview.
+* [Python Full Course for Beginners](https://youtu.be/yye7rSsiV6k?si=9UISsAJ6VUAh2yiE) – Step-by-step Python tutorial.
+* [Python Programming – FreeCodeCamp](https://youtu.be/XKHEtdqhLK8) – Core Python topics.
+* [Python for Interviews](https://youtu.be/m8Icp_Cid5o?si=iAWjF2-VffOVddWa) – Coding interview prep.
 
 ---
 
 ## 📊 7. Data Science / Data Analysis
 
-- [Learn Python for Data Science – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Python basics for data science.
-- [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Math foundations for data science.
-- [Statistics – A Full Lecture (2025 Version)](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Core stats concepts explained.
+* [Python for Data Science – Full Course](https://youtu.be/CMEWVn1uZpQ?si=eqRnzfaGqtPYTNU4) – Use Python in DS.
+* [Essence of Linear Algebra – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as) – Math foundations.
+* [Statistics – Full University Lecture](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=u-0u2OMuwqkZWmRW) – Statistics for DS.
 
 ---
 
 ## ☁️ 8. Cloud & DevOps
 
-- [Cloud Engineer Learning Path – Google Cloud](https://cloud.google.com/training/paths/cloud-engineer) – Hands-on labs and skill badges.
-- [DevOps Full Course – FreeCodeCamp / YouTube](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Overview of CI/CD, Docker, and automation.
-- [AWS / GCP / Azure Basics](https://aws.amazon.com/training/) – Official documentation & tutorials for cloud fundamentals.
+* [Google Cloud Skills Boost – Cloud Engineer Path](https://www.cloudskillsboost.google/paths/11) – Hands-on labs & quests.
+* [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) – AWS learning path.
+* [DevOps Tutorial for Beginners](https://youtu.be/j5Zsa_eOXeY?si=aSnaYu9epUGxDla6) – CI/CD, Docker, and automation.
 
 ---
 
 ## 🔧 9. System Design
 
-- [System Design Was HARD Until I Learned These 30 Concepts – Ashish Pratap Singh](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Key system design concepts.
-- [System Design for Beginners Course – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Introductory course.
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) – GitHub repo with system design guides and examples.
+* [System Design Primer – GitHub](https://github.com/donnemartin/system-design-primer) – Best open-source guide.
+* [System Design Basics – Full Course](https://youtu.be/s9Qh9fWeOAk?si=sDlxyvMKOkBJWK3b) – Beginner-friendly.
+* [System Design Concepts Simplified](https://youtu.be/yK1uBHPdp30?si=5Tov1x_jByPe0c1V) – Key system design lessons.
+* [System Design for Beginners – FreeCodeCamp](https://youtu.be/9GDX-IyZ_C8?si=7ezyCJfcu7O-M5Cr) – Intro course.
 
 ---
 
 ## 📱 10. Mobile Development (React Native)
 
-- [The Complete App Development Roadmap – Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Roadmap & best practices.
-- [React Native Crash Course+ | Build a Mobile App in 3 Hours – Traversy Media](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Hands-on project.
-- [React Native with Expo – Official Docs Tutorial](https://docs.expo.dev/get-started/tutorial/) – Build, test, and deploy using Expo.
+* [React Native Tutorial – Crash Course](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR) – Build an RN app step by step.
+* [React Native Crash Course | Build a Mobile App in 3 Hours](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l) – Full walkthrough.
+* [React Native with Expo – Official Docs](https://docs.expo.dev/tutorial/introduction/) – Build, test, and deploy.
 
 ---
 
 ## 🔗 11. APIs
 
-- [APIs for Beginners – How to Use an API (Full Course / Tutorial) – FreeCodeCamp](https://www.youtube.com/watch?v=7S_tz1z_5bA) – Introduction to APIs and how to use them.
-- [Postman Academy – Self-Study Learning](https://www.postman.com/academy/) – Learn API testing and development.
+* [APIs for Beginners – Full Course](https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO) – API fundamentals.
+* [Postman Academy – Self-Study](https://academy.postman.com/page/self-study-learning) – Learn API testing & design.
+* [REST API Crash Course](https://youtu.be/K9teElePNkk?si=jjgz1NhTGWH9hnsw) – API development & integration.
 
 ---
 
 ## 🏆 12. DSA / LeetCode
 
-- [LeetCode Practice](https://leetcode.com/) – Problem-solving & coding challenges.
-- [Data Structures & Algorithms – FreeCodeCamp / YouTube](https://www.youtube.com/watch?v=7S_tz1z_5bA) – In-depth DSA concepts.
-- [Neetcode 150](https://neetcode.io/) – Curated set of top coding problems.
+* [DSA Course for Beginners](https://youtu.be/K5KVEU3aaeQ?si=vWoZ8ZpUmfvilcdv) – Covers arrays, linked lists, recursion.
+* [Visualizing Data Structures – VisuAlgo](https://visualgo.net/en) – Interactive animations.
+* [DSA Course – Full Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=u-0u2OMuwqkZWmRW) – In-depth data structures.
 
 ---
 
 ## 🔑 13. Rocket.new (No-Code Projects)
 
-- [Rocket.new – Build Projects From Prompts](https://rocket.new/) – Paste a GPT prompt + your CV, generate a project instantly.
-- Ideal for building **portfolio-ready MVPs** without writing code.
-- Works for **students, job seekers, and developers** to quickly showcase skills.
+* [Rocket.new – Build Projects From Prompts](https://rocket.new/) – Generate portfolio-ready MVPs from prompts.
 
 ---
 
