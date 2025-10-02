@@ -26,7 +26,7 @@ Finally, select ONE ‘best fit’ project for me. For that project, give me a s
 
 # 📚 Developer Learning Resources
 
-A curated collection of free resources to help you learn and master various development topics. **Only links you provided are used.** Video titles were taken from the actual video pages when available.
+A curated collection of free resources to help you learn and master various development topics. 
 
 ---
 
@@ -110,7 +110,7 @@ A curated collection of free resources to help you learn and master various deve
 ## 📱 Mobile Development (React Native)
 
 * React Native Crash Course+ | Build a Mobile App In 3 Hours — [https://youtu.be/bCpFbERgj7s?si=BSx7U9wann8Q64AT](https://youtu.be/bCpFbERgj7s?si=BSx7U9wann8Q64AT)
-* React Native Tutorial — [https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR)  *(also an API/backend tutorial; listed because it’s in your set)*
+* React Native Tutorial — [https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR) 
 * Expo tutorial (official) — [https://docs.expo.dev/tutorial/introduction/](https://docs.expo.dev/tutorial/introduction/)
 
 ---
