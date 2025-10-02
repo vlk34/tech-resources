@@ -50,7 +50,7 @@ A curated collection of free resources to help you learn and master various deve
 * Backend web development — a complete overview — [https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P)
 * REST API Crash Course - Introduction + Full Python API Tutorial — [https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR)
 * Databases In-Depth – Complete Course — [https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
-* (link with no retrievable title via automated fetch) — [https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF)
+* The Complete Backend Developer Roadmap — [https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF)
 
 ---
 
