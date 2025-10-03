@@ -96,6 +96,13 @@ A curated collection of free resources to help you learn and master various deve
 
 ---
 
+## 🌐 Networking
+
+* Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples — [https://youtu.be/IPvYjXCsTg8?si=BemjKKXHzS5rViwo](https://youtu.be/IPvYjXCsTg8?si=BemjKKXHzS5rViwo)
+* Computer Networking Fundamentals | Networking Tutorial for beginners Full Course — [https://youtu.be/k9ZigsW9il0?si=8VgFwR69_mG8Z4pl](https://youtu.be/k9ZigsW9il0?si=8VgFwR69_mG8Z4pl)
+* Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] — [https://youtu.be/qiQR5rTSshw?si=q7BeRDFhd4V8lKCk](https://youtu.be/qiQR5rTSshw?si=q7BeRDFhd4V8lKCk)
+---
+
 ## 🏆 DSA / Tools / Visualizers
 
 * VisuAlgo — [https://visualgo.net/en](https://visualgo.net/en)
