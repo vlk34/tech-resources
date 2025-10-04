@@ -91,6 +91,8 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🔗 APIs
 
+* API Design Roadmap - [https://roadmap.sh/api-design](https://roadmap.sh/api-design)
+* Python API Development - Comprehensive Course for Beginners - [https://youtu.be/0sOvCWFmrtA?si=vf7wDN9BCplstjZ1](https://youtu.be/0sOvCWFmrtA?si=vf7wDN9BCplstjZ1) 
 * APIs for Beginners - How to use an API (Full Course / Tutorial) — [https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO](https://youtu.be/WXsD0ZgxjRw?si=fH8H0uXIDs7Q4BBO)
 * Postman Academy — [https://academy.postman.com/page/self-study-learning](https://academy.postman.com/page/self-study-learning)
 
