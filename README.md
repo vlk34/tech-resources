@@ -1,6 +1,6 @@
 # 📚 Developer Learning Resources
 
-A curated collection of free resources to help you learn and master various development topics. 
+A curated collection of free resources to help you learn and master various development topics. Please feel free to fork and contribute resources to this repository.
 
 ---
 
