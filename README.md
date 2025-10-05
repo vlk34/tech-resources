@@ -19,6 +19,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## ⚙️ Backend Development
 
+* [Backend roadmap](https://roadmap.sh/backend)
 * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK)
 * [Backend web development — a complete overview](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P)
@@ -51,6 +52,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🐍 Python
 
+* [Python roadmap](https://roadmap.sh/python)
 * [Python Full Course for Beginners [2025]](https://youtu.be/K5KVEU3aaeQ?si=vWoZ8ZpUmfvilcdv)
 * [Python for Coding Interviews - Everything you need to Know](https://youtu.be/0K_eZGS5NsU?si=mljEURSKhggrTzH5)
 * [10 Important Python Concepts In 20 Minutes](https://youtu.be/Gx5qb1uHss4?si=1nPysrOz_UfxkWmD)
