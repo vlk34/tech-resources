@@ -42,6 +42,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🤖 AI / Machine Learning
 
+* [ML roadmap](https://roadmap.sh/machine-learning)
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 * [AI Basics for Beginners](https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij)
 * [Machine Learning with Python & Scikit-Learn – Full Course](https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o)
@@ -61,6 +62,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 📊 Data Science / Data Analysis
 
+* [Data Science](https://roadmap.sh/ai-data-scientist)
 * [Learn Python for Data Science – Full Course for Beginners](https://youtu.be/CMEWVn1uZpQ?si=eqRnzfaGqtPYTNU4)
 * [Essence of Linear Algebra (playlist)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=okFHITbdlQ8pl3as)
 * [Statistics - A Full Lecture to learn Data Science (2025 Version)](https://youtu.be/K9teElePNkk?si=jjgz1NhTGWH9hnsw)
