@@ -31,6 +31,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🧮 SQL / Databases
 
+* [SQL roadmap](https://roadmap.sh/sql)
 * [SQL interview questions and answers | Entry level data analyst interview](https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS)
 * [Top 45 SQL Interview Questions And Answers In 2025](https://youtu.be/yPasq39n8fY?si=bs3WFnZ5hZfraybu)
 * [Databases In-Depth – Complete Course](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
@@ -43,6 +44,7 @@ A curated collection of free resources to help you learn and master various deve
 ## 🤖 AI / Machine Learning
 
 * [ML roadmap](https://roadmap.sh/machine-learning)
+* [AI Engineerhttps://roadmap.sh/sql roadmap](https://roadmap.sh/ai-engineer)
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 * [AI Basics for Beginners](https://youtu.be/VGFpV3Qj4as?si=kzs0J2WpgYr2Cmij)
 * [Machine Learning with Python & Scikit-Learn – Full Course](https://youtu.be/hDKCxebp88A?si=yA4Uu6kJb2HaEp5o)
@@ -112,6 +114,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🎨 UI / UX
 
+* [UX roadmap](https://roadmap.sh/ux-design)
 * [World's Shortest UI/UX Design Course](https://youtu.be/wIuVvCuiJhU?si=ddBfJumd2frIYWXP)  
 * [Interactive UI/UX Crash Course](https://youtu.be/cTUD_vCrY7M?si=Xodby66bHFCyvbGp)  
 * [10 Years of UX Research Experience in 4.5 Hours — Ultimate Crash Course](https://youtu.be/R7urbI0iqb0?si=OY2buQTxpshmVvU4)  
@@ -120,6 +123,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ## 🏆 DSA / Tools / Visualizers
 
+* [DSA roadmap](https://roadmap.sh/datastructures-and-algorithms)
 * [VisuAlgo](https://visualgo.net/en)
 * [CSVis Tool](https://csvistool.com/)
 * [CS USFCA Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
