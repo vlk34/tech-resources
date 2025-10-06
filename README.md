@@ -127,7 +127,6 @@ A curated collection of free resources to help you learn and master various deve
 * [VisuAlgo](https://visualgo.net/en)
 * [CSVis Tool](https://csvistool.com/)
 * [CS USFCA Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [Operating Systems Course for Beginners](https://youtu.be/yK1uBHPdp30?si=5Tov1x_jByPe0c1V)
 
 ## Rocket.new Project Generator Prompt
 
