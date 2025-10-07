@@ -127,6 +127,8 @@ A curated collection of free resources to help you learn and master various deve
 * [VisuAlgo](https://visualgo.net/en)
 * [CSVis Tool](https://csvistool.com/)
 * [CS USFCA Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://youtu.be/Z_c4byLrNBU?si=xDS3yCtM6hmYN2_7)
+* [8 patterns to solve 80% Leetcode problems](https://youtu.be/xo7XrRVxH8Y?si=H6c47a-Naq42SRe_)
 
 ## Rocket.new Project Generator Prompt
 
