@@ -34,6 +34,7 @@ A curated collection of free resources to help you learn and master various deve
 * [SQL roadmap](https://roadmap.sh/sql)
 * [SQL interview questions and answers | Entry level data analyst interview](https://youtu.be/cffsJjNTsH8?si=Cu4u96OMQv3BTEwS)
 * [Top 45 SQL Interview Questions And Answers In 2025](https://youtu.be/yPasq39n8fY?si=bs3WFnZ5hZfraybu)
+* [Database Design Course - Learn how to design and plan a database for beginners](https://youtu.be/ztHopE5Wnpc?si=UNwuxzi9XrT2Q8e5) 
 * [Databases In-Depth – Complete Course](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
 * [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=oJtxXOr14TkJBIx-)
 * [SQLBolt](https://sqlbolt.com)
