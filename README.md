@@ -128,7 +128,10 @@ A curated collection of free resources to help you learn and master various deve
 * [VisuAlgo](https://visualgo.net/en)
 * [CSVis Tool](https://csvistool.com/)
 * [CS USFCA Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Data Structures and Algorithms Full Course 📈](https://youtu.be/CBYHwZcbD-s?si=vWpOwfUVi7IAvNVC)
+* [Data Structures Explained for Beginners - How I Wish I was Taught](https://youtu.be/O9v10jQkm5c?si=WrM-IwhY3Os9iVBt)
 * [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://youtu.be/Z_c4byLrNBU?si=xDS3yCtM6hmYN2_7)
+* [I was bad at Data Structures and Algorithms. Then I did this.](https://youtu.be/7kf1SACqlRw?si=4dAlBZ_rqF2SbzVi)
 * [8 patterns to solve 80% Leetcode problems](https://youtu.be/xo7XrRVxH8Y?si=H6c47a-Naq42SRe_)
 
 ## Rocket.new Project Generator Prompt
