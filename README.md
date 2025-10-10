@@ -133,6 +133,10 @@ A curated collection of free resources to help you learn and master various deve
 * [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://youtu.be/Z_c4byLrNBU?si=xDS3yCtM6hmYN2_7)
 * [I was bad at Data Structures and Algorithms. Then I did this.](https://youtu.be/7kf1SACqlRw?si=4dAlBZ_rqF2SbzVi)
 * [8 patterns to solve 80% Leetcode problems](https://youtu.be/xo7XrRVxH8Y?si=H6c47a-Naq42SRe_)
+* [Mastering Dynamic Programming - How to solve any interview problem (Part 1)](https://youtu.be/Hdr64lKQ3e4?si=DEdzGk1-Lappq6RZ)
+* [Mastering Dynamic Programming - A Real-Life Problem (Part 2)](https://youtu.be/rE5h11FwiVw?si=q1ud_xZYziCK-1jt)
+* [5 Simple Steps for Solving Dynamic Programming Problems](https://youtu.be/aPQY__2H3tE?si=NU56v6NrUQoW6qTP)
+* [The Last Dynamic Programming Video You'll Need to Watch](https://youtu.be/9k31KcQmS_U?si=0ysEZ3310YR8UCXq)
 
 ## Rocket.new Project Generator Prompt
 
