@@ -26,6 +26,9 @@ A curated collection of free resources to help you learn and master various deve
 * [REST API Crash Course - Introduction + Full Python API Tutorial](https://youtu.be/qbLc5a9jdXo?si=yHM6M5fUVQjTGvQR)
 * [Databases In-Depth – Complete Course](https://youtu.be/pPqazMTzNOM?si=oIaCjwYHF9H1j18l)
 * [The Complete Backend Developer Roadmap](https://youtu.be/OeEHJgzqS1k?si=whYU2gsAJF3z7fuF)
+* [Learn Java in 15 Minutes (seriously)](https://youtu.be/b5l5UodFzMo?si=9GL6AkTiLfAnaE0E)
+* [Java OOP in 10 Minutes (Java Object Oriented Programming) #95](https://youtu.be/CWYv7xlKydw?si=5DRzBDbmxZzK01q8)
+* [Ultimate Java Backend Project: Spring Boot Tutorial](https://youtu.be/y3odhQtu4R8?si=dL3m-GBWAEWvynpV)
 
 ---
 
