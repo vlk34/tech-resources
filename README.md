@@ -14,6 +14,9 @@ A curated collection of free resources to help you learn and master various deve
 * [7 React Lessons I Wish I Knew Earlier](https://youtu.be/4AXQgOcL1mo?si=joDBuzigT6frt7J-)
 * [Fetching Data in React](https://youtu.be/00lxm_doFYw?si=ldJmtkQ5AWcY3o-9)
 * [Tailwind CSS v4 Full Course 2025](https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys)
+* [100+ JavaScript Concepts you Need to Know](https://youtu.be/lkIFF4maKMU?si=24SguSTJjUcs-2oR)
+* [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ?si=w7DKB0R9MCpqmudL)
+* [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://youtu.be/Bv_5Zv5c-Ts?si=s8QwLWkb2Z38oEgk) 
 
 ---
 
