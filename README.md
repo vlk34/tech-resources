@@ -128,7 +128,7 @@ A curated collection of free resources to help you learn and master various deve
 
 ---
 
-## 🏆 DSA / Tools / Visualizers
+## 🏆 DSA & LeetCode / Tools / Visualizers
 
 * [DSA roadmap](https://roadmap.sh/datastructures-and-algorithms)
 * [VisuAlgo](https://visualgo.net/en)
@@ -143,6 +143,8 @@ A curated collection of free resources to help you learn and master various deve
 * [Mastering Dynamic Programming - A Real-Life Problem (Part 2)](https://youtu.be/rE5h11FwiVw?si=q1ud_xZYziCK-1jt)
 * [5 Simple Steps for Solving Dynamic Programming Problems](https://youtu.be/aPQY__2H3tE?si=NU56v6NrUQoW6qTP)
 * [The Last Dynamic Programming Video You'll Need to Watch](https://youtu.be/9k31KcQmS_U?si=0ysEZ3310YR8UCXq)
+* [Big-O Notation - Everything you Need for Coding Interviews](https://youtu.be/rv_ZacJYRFA?si=Z9FjFcmB8QT8CPUk)
+* [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ## Rocket.new Project Generator Prompt
 
