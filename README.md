@@ -128,6 +128,11 @@ A curated collection of free resources to help you learn and master various deve
 
 ---
 
+## ✨ Vibe Coding
+* [How to make vibe coding not suck…](https://youtu.be/PLKrSVuT-Dg?si=0ZkDu0Fufxx5QVXg)
+* [Cursor Vibe Coding Tutorial - For COMPLETE Beginners (No Experience Needed)](https://youtu.be/8AWEPx5cHWQ?si=fxeuvPP1fMvm7iaK)
+* [How To Get The Most Out Of Vibe Coding | Startup School](https://youtu.be/BJjsfNO5JTo?si=VWCwPgCBNDw06pz5)
+
 ## 🏆 DSA & LeetCode / Tools / Visualizers
 
 * [DSA roadmap](https://roadmap.sh/datastructures-and-algorithms)
