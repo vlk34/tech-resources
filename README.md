@@ -151,6 +151,12 @@ A curated collection of free resources to help you learn and master various deve
 * [Big-O Notation - Everything you Need for Coding Interviews](https://youtu.be/rv_ZacJYRFA?si=Z9FjFcmB8QT8CPUk)
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 
+## 🔒 Cyber Security
+
+* [The Complete Cybersecurity Roadmap: Land a Cybersecurity Job in 10 Months](https://youtu.be/v7BNtpw53AA?si=Lxw9NvgVuluYpYQT)
+* [Cybersecurity Mastery: Complete Course in a Single Video | Cybersecurity For Beginners](https://youtu.be/s19BxFpoSd0?si=QSAWXJlNLu4CAwI6)
+* [Cybersecurity Architecture Series](https://youtube.com/playlist?list=PLOspHqNVtKADkWLFt9OcziQF7EatuANSY&si=OVM6i7rzBXdhsgnJ)
+
 ## Rocket.new Project Generator Prompt
 
 Here’s my Resume (pasted below). I want you to carefully analyze my skills, work experience, education, and any technologies or tools I’ve listed. Based on this, generate 3 unique and practical project ideas that would strengthen my Resume. Each project should:
