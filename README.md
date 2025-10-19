@@ -91,6 +91,9 @@ A curated collection of free resources to help you learn and master various deve
 * [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk?si=sDlxyvMKOkBJWK3b)
 * [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o?si=iAWjF2-VffOVddWa)
 * [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+* [Design Youtube - System Design Preview](https://youtu.be/jPKTo1iGQiE?si=qHqTSvBvzAV-SPfj)
+* [8 Most Important System Design Concepts You Should Know](https://youtu.be/BTjxUS_PylA?si=gGnFN7Xf4cMxY_U4)
+* [https://www.youtube.com/watch?v=i53Gi_K3o7I](https://youtu.be/i53Gi_K3o7I?si=1yxV82zSRyKRwbtx)
 
 ---
 
