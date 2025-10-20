@@ -4,6 +4,14 @@ A curated collection of free resources to help you learn and master various deve
 
 ---
 
+## 📖 Interview Prep
+
+* [The SECRET To Landing a Software Engineering Internship 🤫](https://youtu.be/jWQ7eKglSv8?si=AIHHR-mvM1yrCA5a)
+* [If I Wanted a Software Engineering Internship in 2025, I’d Do This](https://youtu.be/yUQbl9J3kJU?si=jP4H8UheCr2WGTJT)
+* [How I landed my DREAM Internship (and you can too)](https://youtu.be/8QC3Z1GNU_4?si=RD4Sngvnfhgq_MXO)
+
+---
+  
 ## 🌐 Frontend Development
 
 * [Frontend roadmap](https://roadmap.sh/frontend)
