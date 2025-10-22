@@ -91,6 +91,9 @@ A curated collection of free resources to help you learn and master various deve
 * [Cloud Engineer | Google Cloud Skills Boost (path)](https://www.cloudskillsboost.google/paths/11)
 * [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
 * [DevOps intro / course link — title not retrievable via automated fetch](https://youtu.be/j5Zsa_eOXeY?si=aSnaYu9epUGxDla6)
+* [Kafka Tutorial for Beginners | Everything you need to get started](https://youtu.be/QkdkLdMBuL0?si=XUZJG9lW8M1kYbbY)
+* [Apache Kafka Fundamentals You Should Know](https://youtu.be/-RDyEFvnTXI?si=5KSORU4rB1yptQwi)
+* [Apache Kafka Crash Course | Kafka Tutorial for Beginners | KodeKloud](https://youtu.be/cNFAP9OnJjo?si=N6kphmKqd2jHn5T2)
 
 ---
 
