@@ -24,8 +24,11 @@ A curated collection of free resources to help you learn and master various deve
 * [Tailwind CSS v4 Full Course 2025](https://youtu.be/6biMWgD6_JY?si=Hv1R45SI6qmt16ys)
 * [100+ JavaScript Concepts you Need to Know](https://youtu.be/lkIFF4maKMU?si=24SguSTJjUcs-2oR)
 * [JavaScript Tutorial Full Course - Beginner to Pro](https://youtu.be/EerdGm-ehJQ?si=w7DKB0R9MCpqmudL)
-* [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://youtu.be/Bv_5Zv5c-Ts?si=s8QwLWkb2Z38oEgk) 
-
+* [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://youtu.be/Bv_5Zv5c-Ts?si=s8QwLWkb2Z38oEgk)
+* [Learn CSS in 1 hour 🎨](https://youtu.be/wRNinF7YQqQ?si=qlO2fF9Mn0atBY4O)
+* [24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!](https://youtu.be/TzuWIHGFKCQ?si=9tTmHqK21_BwRPbe)
+* [The Only CSS Layout Guide You'll Ever Need](https://youtu.be/i1FeOOhNnwU?si=hVzS1UZiAAIM-lOw)
+  
 ---
 
 ## ⚙️ Backend Development
