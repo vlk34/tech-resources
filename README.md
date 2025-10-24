@@ -132,7 +132,7 @@ A curated collection of free resources to help you learn and master various deve
 
 * [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://youtu.be/IPvYjXCsTg8?si=BemjKKXHzS5rViwo)
 * [Computer Networking Fundamentals | Networking Tutorial for beginners Full Course](https://youtu.be/k9ZigsW9il0?si=8VgFwR69_mG8Z4pl)
-* [Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep]](https://youtu.be/qiQR5rTSshw?si=q7BeRDFhd4V8lKCk)
+* [Computer Networking Course - Network Engineering CompTIA Network+ Exam Prep](https://youtu.be/qiQR5rTSshw?si=q7BeRDFhd4V8lKCk)
 
 ---
 
@@ -167,6 +167,11 @@ A curated collection of free resources to help you learn and master various deve
 * [The Last Dynamic Programming Video You'll Need to Watch](https://youtu.be/9k31KcQmS_U?si=0ysEZ3310YR8UCXq)
 * [Big-O Notation - Everything you Need for Coding Interviews](https://youtu.be/rv_ZacJYRFA?si=Z9FjFcmB8QT8CPUk)
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
+## 🐧 Linux
+* [Learn Linux - Full Course](https://youtu.be/v392lEyM29A?si=OYyVF59WMGM6bHWf)
+* [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=PqzfD40XL_7sxbV0)
+* [Linux Journey](https://labex.io/linuxjourney)
 
 ## 🔒 Cyber Security
 
