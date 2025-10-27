@@ -37,6 +37,8 @@ A curated collection of free resources to help you learn and master various deve
 ## ⚙️ Backend Development
 
 * [Backend roadmap](https://roadmap.sh/backend)
+* [Master Node JS in an easy way](https://youtu.be/2YIgGdUtbXM?si=Y5z-d1Zq-X__1apq)
+* [Node.js Crash Course](https://youtu.be/32M1al-Y6Ag?si=amZgCFcf69llbMFt)
 * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4?si=UK4ZsV_u6IWHMCoK)
 * [Backend web development — a complete overview](https://youtu.be/XBu54nfzxAQ?si=8fNcaej5fvgQFT5P)
