@@ -120,6 +120,9 @@ A curated collection of **free resources** to help you learn and master various 
 
 - [Google Cloud Engineer Path](https://www.cloudskillsboost.google/paths/11)
 - [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
+- [DevOps from Zero to Hero: Build and Deploy a Production API](https://youtu.be/H5FAxTBuNM8?si=7fWU0qiEhcH8lOKf)
+- [Every DevOps Software Explained in 8 Minutes](https://www.youtube.com/watch?v=EY1hsh-HCjo)
+- [The Complete DevOps Roadmap](https://youtu.be/6GQRb4fGvtk?si=j-jjlq5oK9CDJgyp)
 - [DevOps Crash Course](https://youtu.be/j5Zsa_eOXeY)
 - [Kafka Tutorial for Beginners](https://youtu.be/QkdkLdMBuL0)
 - [Apache Kafka Fundamentals](https://youtu.be/-RDyEFvnTXI)
