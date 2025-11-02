@@ -127,6 +127,9 @@ A curated collection of **free resources** to help you learn and master various 
 - [Kafka Tutorial for Beginners](https://youtu.be/QkdkLdMBuL0)
 - [Apache Kafka Fundamentals](https://youtu.be/-RDyEFvnTXI)
 - [Apache Kafka Crash Course (KodeKloud)](https://youtu.be/cNFAP9OnJjo)
+- [Top 50+ AWS Services Explained in 10 Minutes](https://youtu.be/JIbIYCM48to?si=gUOS5ie-6or9g1ja)
+- [Intro to AWS - The Most Important Services To Learn](https://youtu.be/FDEpdNdFglI?si=y92t90GhGQp5VI56)
+- [AWS Roadmap](https://roadmap.sh/aws)
 
 ---
 
