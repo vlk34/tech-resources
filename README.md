@@ -130,6 +130,9 @@ A curated collection of **free resources** to help you learn and master various 
 - [Top 50+ AWS Services Explained in 10 Minutes](https://youtu.be/JIbIYCM48to?si=gUOS5ie-6or9g1ja)
 - [Intro to AWS - The Most Important Services To Learn](https://youtu.be/FDEpdNdFglI?si=y92t90GhGQp5VI56)
 - [AWS Roadmap](https://roadmap.sh/aws)
+- [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://youtu.be/7xngnjfIlK4?si=Cp7cf2hNpELaBddG)
+- [Terraform Explained](https://youtu.be/HmxkYNv1ksg?si=KCUbL6lTAuDvjzfS)
+- [8 Terraform Best Practices that will improve your TF workflow immediately](https://youtu.be/gxPykhPxRW0?si=wyMPWdw7KIaquZw5)
 
 ---
 
