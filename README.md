@@ -54,6 +54,9 @@ A curated collection of **free resources** to help you learn and master various 
 - [React Native Course for Beginners in 2025 | Build a Full Stack React Native App](https://youtu.be/f8Z9JyB2EIE)
 - [Build a Full Stack Food Delivery App in React Native](https://youtu.be/LKrX390fJMw)
 - [React Native Roadmap](https://roadmap.sh/react-native)
+- [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI?si=uzpb0qRou5qM8MYj)
+- [NextJS Tutorial - All 12 Concepts You Need to Know](https://youtu.be/vwSlYG7hFk0?si=JCIc2U77GiI-RXLC)
+- [NextJS Roadmap](https://roadmap.sh/nextjs)
 
 ---
 
