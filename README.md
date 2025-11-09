@@ -98,6 +98,8 @@ A curated collection of **free resources** to help you learn and master various 
 - [Machine Learning with Python & Scikit-Learn – Full Course](https://youtu.be/hDKCxebp88A)
 - [Learn Machine Learning Like a Genius](https://youtu.be/qNxrPri1V0I)
 - [All Machine Learning Algorithms Explained in 17 Min](https://youtu.be/E0Hmnixke2g)
+- [All Machine Learning Concepts Explained in 22 Minutes](https://youtu.be/Fa_V9fP2tpU?si=DvUZo2n89bOIEplZ)
+- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=EDQb2ssg2RWHdo9o)
 
 ---
 
