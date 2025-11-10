@@ -226,4 +226,10 @@ A curated collection of **free resources** to help you learn and master various 
 
 ---
 
+## 💡 C/C++
+
+- [C++ Full Course for Free](https://youtu.be/-TkoO8Z07hI?si=f2VB0Wom-B6Dlhtv)
+- [31 Nooby C++ Habits you Need to Ditch](https://youtu.be/i_wDa2AS_8w?si=-hb886xH-mzY-Mdf)
+- [C++ Roadmap](https://roadmap.sh/cpp)
+  
 > 💡 **Tip:** Save this repo for a structured learning path and jump between topics as you progress from beginner → advanced.
