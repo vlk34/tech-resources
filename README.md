@@ -100,6 +100,9 @@ A curated collection of **free resources** to help you learn and master various 
 - [All Machine Learning Algorithms Explained in 17 Min](https://youtu.be/E0Hmnixke2g)
 - [All Machine Learning Concepts Explained in 22 Minutes](https://youtu.be/Fa_V9fP2tpU?si=DvUZo2n89bOIEplZ)
 - [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=EDQb2ssg2RWHdo9o)
+- [NLP Tutorial Python Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&si=GAniQkV2UpWDRHFs)
+- [What is NLP?](https://youtu.be/fLvJ8VdHLA0?si=aprepYAvxU1S8qr1)
+- [Natural Language Processing with spaCy & Python - Course for Beginners](https://youtu.be/dIUTsFT2MeQ?si=AWufcUvciCmDDjsp)
 
 ---
 
