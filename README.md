@@ -207,6 +207,8 @@ A curated collection of **free resources** to help you learn and master various 
 - [Data Structures Explained for Beginners](https://youtu.be/O9v10jQkm5c)
 - [LeetCode Patterns & Tutorials](https://youtu.be/Z_c4byLrNBU)
 - [8 Patterns to Solve 80% Leetcode Problems](https://youtu.be/xo7XrRVxH8Y)
+- [How to Solve ANY LeetCode Problem (Step-by-Step)](https://youtu.be/OTNe0eV8418?si=GbfifjvLFTSkIAGB)
+- [70 Leetcode problems in 5+ hours (every data structure) (full tutorial)](https://youtu.be/lvO88XxNAzs?si=Iois5fFQlCSGxO0C)
 - [Mastering Dynamic Programming - Series](https://youtu.be/Hdr64lKQ3e4)
 - [Big-O Notation - Everything You Need for Interviews](https://youtu.be/rv_ZacJYRFA)
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
