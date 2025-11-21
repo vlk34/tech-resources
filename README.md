@@ -3,6 +3,8 @@
 A curated collection of **free resources** to help you learn and master various development topics. I include all the links from my videos in this repository! [@volkan.js](https://www.instagram.com/volkan.js)
 💡 *Fork this repo and contribute your favorite resources!*
 
+If you'd like to contribute, please open up a pull request with your resources either in an existing category or a new one.
+
 ---
 
 ## 🧠 Table of Contents
