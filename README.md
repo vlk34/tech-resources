@@ -74,6 +74,7 @@ If you'd like to contribute, please open up a pull request with your resources e
 - [Databases In-Depth – Complete Course](https://youtu.be/pPqazMTzNOM)
 - [The Complete Backend Developer Roadmap](https://youtu.be/OeEHJgzqS1k)
 - [Learn Java in 15 Minutes (Seriously)](https://youtu.be/b5l5UodFzMo)
+- [ Java Full Course for free ☕ (2025) ](https://youtu.be/xTtL8E4LzTQ?si=acv_Csu-W77uZDiL)
 - [Java OOP in 10 Minutes](https://youtu.be/CWYv7xlKydw)
 - [Ultimate Java Backend Project: Spring Boot Tutorial](https://youtu.be/y3odhQtu4R8)
 
