@@ -59,6 +59,7 @@ If you'd like to contribute, please open up a pull request with your resources e
 - [Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App](https://youtu.be/I1V9YWqRIeI?si=uzpb0qRou5qM8MYj)
 - [NextJS Tutorial - All 12 Concepts You Need to Know](https://youtu.be/vwSlYG7hFk0?si=JCIc2U77GiI-RXLC)
 - [NextJS Roadmap](https://roadmap.sh/nextjs)
+- [5 Coding Resources](https://fluttering-artichoke-0e8.notion.site/Coding-Website-Resources-volkan-js-2c6de014f74c80fd9585f7df5f0d46f8)
 
 ---
 
