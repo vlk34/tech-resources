@@ -156,6 +156,9 @@ If you'd like to contribute, please open up a pull request with your resources e
 - [Design YouTube - System Design Preview](https://youtu.be/jPKTo1iGQiE)
 - [8 Most Important System Design Concepts](https://youtu.be/BTjxUS_PylA)
 - [System Design Q&A](https://youtu.be/i53Gi_K3o7I)
+- [How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥](https://youtu.be/I6dpN0geIb4?si=b-IliypmT23H7-ll)
+- [Apache vs NGINX](https://youtu.be/9nyiY-psbMs?si=_E3K062nFH91CvGZ)
+- [NGINX Tutorial for Beginners](https://youtu.be/9t9Mp0BGnyI?si=NjDht9sTmqMQ-c-M)
 
 ---
 
