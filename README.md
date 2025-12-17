@@ -60,6 +60,8 @@ If you'd like to contribute, please open up a pull request with your resources e
 - [NextJS Tutorial - All 12 Concepts You Need to Know](https://youtu.be/vwSlYG7hFk0?si=JCIc2U77GiI-RXLC)
 - [NextJS Roadmap](https://roadmap.sh/nextjs)
 - [5 Coding Resources](https://fluttering-artichoke-0e8.notion.site/Coding-Website-Resources-volkan-js-2c6de014f74c80fd9585f7df5f0d46f8)
+- [JavaScript Speed Course - Learn JavaScript in ~75 Minutes](https://youtu.be/TjjKcgtlsY8?si=JsRS9xHrg_uLVPTT)
+- [ HTML & CSS Full Course for free 🌎 ](https://youtu.be/HGTJBPNC-Gw?si=RhjcTvaUsWq1Q1dU)
 
 ---
 
