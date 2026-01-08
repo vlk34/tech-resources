@@ -1,5 +1,7 @@
 # 📚 Developer Learning Resources
 
+[Check out my newsletter!](https://newsletter.volkanjs.com/)
+
 A curated collection of **free resources** to help you learn and master various development topics. I include all the links from my videos in this repository! [@volkan.js](https://www.instagram.com/volkan.js)
 💡 *Fork this repo and contribute your favorite resources!*
 
